@@ -1,7 +1,11 @@
 package pl.study;
 
-/**
- * Created by Michał on 26.02.2017.
- */
+import java.util.Date;
+
 public class Loan {
+
+    private String id;
+    private int amount;
+    private Date fromDate;
+    private Date toDate;
 }

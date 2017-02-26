@@ -1,6 +1,7 @@
 *.class
 
 # Idea project files
+#.idea/
 out/
 *.iml
 

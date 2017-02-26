@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="835b2169-fc9d-4aa8-9cd1-7f9c4aba7923" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pl/study/BusinessLogic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pl/study/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pl/study/Loan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pl/study/Metadata.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
